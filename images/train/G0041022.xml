@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>G0041022.JPG</filename>
+	<path>E:\project CM\pothole_detection\images\G0041022.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3680</width>
+		<height>2760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2859</xmin>
+			<ymin>1643</ymin>
+			<xmax>3350</xmax>
+			<ymax>1888</ymax>
+		</bndbox>
+	</object>
+</annotation>
